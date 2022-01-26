@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://web.facebook.com/downloadappstore",
+"HOMEURL" : "https://m.facebook.com/downloadappstore",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Please wait . . .",
