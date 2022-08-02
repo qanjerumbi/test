@@ -11,7 +11,7 @@
 "JSON_POPUP_WAIT" : "Please wait . . .",
 
 // Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : true,
+"REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.zerocorp.volkswagenwallpaper",
 
 // main ads ke backup ads 
@@ -26,16 +26,16 @@
 //     Mode UNITY       Unity backup Startapp
 //     Mode APPLOVIN    Applovin backup Unity Backup Startapp
 //     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+"PENGATURAN_IKLAN_BANNER" : "UNITY",
+"PENGATURAN_IKLAN_INTER" : "UNITY",
+"PENGATURAN_IKLAN_NATIVE" : "UNITY",
 
-"INTER_COUNT" : "3",
+"INTER_COUNT" : "1",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : true,
 
-"ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
+"ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
 
 "MODE_OFFLINE_MP3" : false,
 "ENABLE_STICKY_NOTIFICATION" : true,
